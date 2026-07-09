@@ -145,7 +145,8 @@ Fields:
 <img width="1918" height="917" alt="login page (3)" src="https://github.com/user-attachments/assets/83878de3-b7e1-4b8e-b7b7-2505d369c65f" />
 
 <img width="1918" height="917" alt="register page (2)" src="https://github.com/user-attachments/assets/d8c2d7d8-889f-4e42-acb1-d4ce8e25e101" />
-<img width="1918" height="917" alt="register page (2)" src="https://github.com/user-attachments/assets/134475b7-fac7-4af7-95ce-bb06709d83a9" />
+<img width="1908" height="906" alt="dashboard (4)" src="https://github.com/user-attachments/assets/49e1c2c4-942f-46d6-a015-47fefb242078" />
+
 <img width="1908" height="908" alt="dashboard (5)" src="https://github.com/user-attachments/assets/b64aee75-7c8b-41f2-8f2d-8dddb576d98f" />
 <img width="1915" height="915" alt="add contact page" src="https://github.com/user-attachments/assets/4d31a8e2-32f6-4eb7-bc5d-90a616c9f779" />
 <img width="1918" height="917" alt="contact list" src="https://github.com/user-attachments/assets/66583368-3890-4401-9baa-481dd5ff95cf" />
